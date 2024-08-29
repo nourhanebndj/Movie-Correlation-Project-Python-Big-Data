@@ -33,3 +33,7 @@ This project can be useful for:
 
 who are interested in understanding what factors contribute to a movie's success.
 
+
+## Kaggle Link
+You can find the dataset used in this project on Kaggle via the following link:
+[Kaggle Weather Data](https://www.kaggle.com/code/nourhanebndj/movie-correlation-analysis) 
